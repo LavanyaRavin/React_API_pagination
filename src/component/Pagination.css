@@ -1,0 +1,23 @@
+/* unvisited link */
+.page-link :link {
+    color: red;
+    background-color: blue;
+  }
+  
+  /* visited link */
+  .page-link:visited {
+    color: green;
+    background-color: green;
+  }
+  
+  /* mouse over link */
+  .page-link:hover {
+    color: hotpink;
+    background-color: aqua;
+  }
+  
+  /* selected link */
+  .page-link:active {
+    color: blue;
+    background-color: red;
+  }
